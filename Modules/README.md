@@ -21,6 +21,8 @@ These files are copied as-is by `dotnet`
 Notes
 -----------
 
+Adding Comment
+
 We have files with the same names in different folders.
 That means that the contents of these two files are different. 
 I.e. if it's .psd1 file, it could be because `CmdletsToExport`
